@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Membuat Form Validasi dengan Javascript - WWW.MALASNGODING.COM</title>
+	<title>ZHN News</title>
 	<link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body>
